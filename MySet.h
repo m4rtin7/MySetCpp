@@ -6,8 +6,6 @@
 
 using namespace std;
 
-//Cely projekt je len v jednom .h subore kedze som sa stretol s problemom ohladom linkera
-//pri template classe a jedine riesenie, ktore som nasiel je prave toto.
 //Projekt predstavuje implementaciu mojej triedy set, ktora je homogenna. Ma niektore funkcie, ktore ma aj klasicky set
 //no obsahuje aj ine funkcie, ktore mne osobne prisli zaujimave.
 //Dalej projekt obsahuje triedu SetIterator, ktora sa stara o iterovanie tymto setom.
